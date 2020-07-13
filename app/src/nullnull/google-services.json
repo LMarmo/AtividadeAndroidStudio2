@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635058035105",
+    "firebase_url": "https://orcamento-dd481.firebaseio.com",
+    "project_id": "orcamento-dd481",
+    "storage_bucket": "orcamento-dd481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635058035105:android:2b472305eda9d87bbf93e0",
+        "android_client_info": {
+          "package_name": "com.marmo.orcamento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635058035105-24l1nc221iv26402t95q718hed3a2uo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marmo.orcamento",
+            "certificate_hash": "64902a51dbdfdd37511758a30276b83612246910"
+          }
+        },
+        {
+          "client_id": "635058035105-8v6mij70ptvl9bgn0fb5nntjikn8g1bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpqrH5ScS23K4Wt_WBNwjGSJCZMrvsDO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635058035105-8v6mij70ptvl9bgn0fb5nntjikn8g1bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
